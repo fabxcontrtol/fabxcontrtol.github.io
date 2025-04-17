@@ -1,0 +1,61 @@
+{
+  "name": "fabxcontroll.ru",
+  "version": "1.0.0",
+  "author": {
+    "name": "Winnigames2024",
+    "email": "user2025ah0me@gmail.com",
+    "url": "https://uglyburgerO.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/fabxcontrol/fabxcontrol.github.io/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ecstatic": "^4.1.4",
+    "standard": "*"
+  },
+  "license": "-",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Winnigames2024/fabxcontrol.github.io.git"
+  },
+  "scripts": {
+    "deploy": "git push && ssh future 'cd ~/fabxcontrol.github.io && git pull'",
+    "serve": "ecstatic --port 4000 --cache 0 static",
+    "start": "npm run serve",
+    "test": "standard",
+    "watch": "npm run serve"
+  }
+}{
+  "name": "fabxcontrol.github.io",
+  "version": "1.0.0",
+  "author": {
+    "name": "Winnigames2024",
+    "email": "user2025ah0me@gmail.com",
+    "url": "https://uglyburgerO.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/fabxcontrol/fabxcontrol.github.io/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ecstatic": "^4.1.4",
+    "standard": "*"
+  },
+  "license": "-",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fabxcontrol/fabxcontrol.githb.io.git"
+  },
+  "scripts": {
+    "deploy": "git push && ssh future 'cd ~/www/fabxcontroll.ru && git pull'",
+    "serve": "ecstatic --port 4000 --cache 0 static",
+    "start": "npm run serve",
+    "test": "standard",
+    "watch": "npm run serve"
+  }
+}
