@@ -76,8 +76,8 @@ const SEARCHES = [
 
 const VIDEOS = [
   'nyan.mp4',
-  'rickroll.mp4',
-  'trolol.mp4'
+  'troll.mp4',
+  'troll.mp4'
 ]
 
 const FILE_DOWNLOADS = [
