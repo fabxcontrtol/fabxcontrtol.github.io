@@ -81,15 +81,9 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
-  'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
-  'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
-  'patreon.png'
+  'nyan.mp4',
+  'troll.mp4',
+  'cat-cute.jpg'
 ]
 
 const PHRASES = [
@@ -104,7 +98,7 @@ const PHRASES = [
 ]
 
 const LOGOUT_SITES = {
-  AOL: ['GET', 'https://my.screenname.aol.com/_cqr/logout/mcLogout.psp?sitedomain=startpage.aol.com&authLev=0&lang=en&locale=us'],
+  AOL: ['GET', 'https://my.screenname.aol.com/_cqr/logout/mcLogout.psp?sitedomain=startpage.aol.com&authLev=0&lang=en&locale=ru'],
   'AOL 2': ['GET', 'https://api.screenname.aol.com/auth/logout?state=snslogout&r=' + Math.random()],
   Amazon: ['GET', 'https://www.amazon.com/gp/flex/sign-out.html?action=sign-out'],
   Blogger: ['GET', 'https://www.blogger.com/logout.g'],
