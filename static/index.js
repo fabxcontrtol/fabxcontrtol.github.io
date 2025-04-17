@@ -699,7 +699,7 @@ function requestWebauthnAttestation () {
         // User:
         user: {
           id: new Uint8Array(16),
-          name: 'YOU_ARE_HACKED@THEANNOYINGSITE.COM',
+          name: 'YOU_ARE_HACKED@gmail.com',
           displayName: 'YOU ARE HACKED'
         },
 
@@ -907,6 +907,12 @@ function copySpamToClipboard () {
   const randomArt = getRandomArrayEntry(ART) + '\nCheck out https://theannoyingsite.com'
   clipboardCopy(randomArt)
 }
+function copySpamToClipboard2 () {
+  const randomText = getRandomArrayEntry(TEXT) + '\nCheck out https://theannoyingsite.com'
+  clipboardCopy(randomText)
+}
+
+
 
 /**
  * Copy given text, `text`, onto the user's clipboard.
