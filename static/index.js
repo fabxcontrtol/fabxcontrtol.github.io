@@ -96,7 +96,10 @@ const TEXT = [
 const VIDEOS = [
   'nyan.mp4',
   'troll.mp4',
-  'troll.mp4'
+  'troll.mp4',
+  'troll.mp4',
+  'troll.mp4',
+  'banana.mp4'
 ]
 
 const FILE_DOWNLOADS = [
