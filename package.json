@@ -4,10 +4,10 @@
   "author": {
     "name": "Winnigames2024",
     "email": "user2025ah0me@gmail.com",
-    "url": "https://uglyburgerO.github.io/"
+    "url": "https://fabxcontrtol.github.io/"
   },
   "bugs": {
-    "url": "https://github.com/fabxcontrol/fabxcontrol.github.io/issues"
+    "url": "https://github.com/fabxcontrol/fabxcontrtol.github.io/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -15,29 +15,29 @@
     "standard": "*"
   },
   "license": "-",
-  "main": "index.js",
+  "main": "index.html",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/Winnigames2024/fabxcontrol.github.io.git"
+    "url": "git://github.com/Winnigames2024/fabxcontrtol.github.io.git"
   },
   "scripts": {
-    "deploy": "git push && ssh future 'cd ~/fabxcontrol.github.io && git pull'",
+    "deploy": "git push && ssh future 'cd ~/fabxcontrtol.github.io && git pull'",
     "serve": "ecstatic --port 4000 --cache 0 static",
     "start": "npm run serve",
     "test": "standard",
     "watch": "npm run serve"
   }
 }{
-  "name": "fabxcontrol.github.io",
+  "name": "fabxcontrtol.github.io",
   "version": "1.0.0",
   "author": {
     "name": "Winnigames2024",
     "email": "user2025ah0me@gmail.com",
-    "url": "https://uglyburgerO.github.io"
+    "url": "https://fabxcontrtol.github.io"
   },
   "bugs": {
-    "url": "https://github.com/fabxcontrol/fabxcontrol.github.io/issues"
+    "url": "https://github.com/fabxcontrol/fabxcontrtol.github.io/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -45,14 +45,14 @@
     "standard": "*"
   },
   "license": "-",
-  "main": "index.js",
+  "main": "index.html",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/fabxcontrol/fabxcontrol.githb.io.git"
+    "url": "git://github.com/fabxcontrol/fabxcontrtol.github.io.git"
   },
   "scripts": {
-    "deploy": "git push && ssh future 'cd ~/www/fabxcontroll.ru && git pull'",
+    "deploy": "git push && ssh future 'cd ~/www/fabxcontrtol.ru && git pull'",
     "serve": "ecstatic --port 4000 --cache 0 static",
     "start": "npm run serve",
     "test": "standard",
